@@ -18,7 +18,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/momentous-day-counter-ios.git
+    git clone https://github.com/cancel-cloud/Momentous-Day-Counter.git
     ```
 2. Dive into the Xcode project.
 3. Build and run. Experience the magic on your device or simulator.
@@ -40,6 +40,8 @@
 ## 💡 Contributing
 
 Your brilliance is welcome here. 🌈 Pull requests light up our day! For grand changes, an open discussion through an issue would be splendid.
+
+👥 Join & Contribute: Fancy being a part of Momentous? We'd be thrilled! But, kindly adhere to the community and general guidelines of GitHub, as well as the licenses set within this repository. Got burning questions, sparkling suggestions, or other dazzling contributions for Momentous? Head to our 'Discussions' section where you can ignite your own topics or jump into existing conversations.
 
 ## 📜 License
 
